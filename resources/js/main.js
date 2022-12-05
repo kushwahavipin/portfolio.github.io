@@ -18,6 +18,7 @@ function collapse() {
 function home() {
     collapse();
     layers[0].classList.add("active");
+    
 }
 
 function about() {

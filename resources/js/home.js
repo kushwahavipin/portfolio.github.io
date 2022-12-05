@@ -5,6 +5,7 @@ canvas.height = canvas.parentElement.offsetHeight;
 
 let groundHeight = 100;
 
+
 class Star {
     constructor(x, y, color, radius, velocity) {
         this.x = x;
